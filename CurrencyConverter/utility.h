@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string>
+#include <map>
 
 using namespace std;
 
@@ -73,5 +74,13 @@ namespace conversions {
 		std::cout << "Print conversion\n";
 		std::cout << "-------------------------------------------------------------------\n";
 	}
+
+
+
+};
+
+namespace map {
+	
+
 
 };
